@@ -1,2 +1,0 @@
-# solar_generation_energy_price
-Challenge
